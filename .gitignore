@@ -1,0 +1,59 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# ASP.NET Core logs
+logs/
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Environment files
+*.env
+*.env.*
+
+# Publish output
+publish/
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Node modules (if using frontend tooling)
+node_modules/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Backup & temp files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Generated files
+Generated/
